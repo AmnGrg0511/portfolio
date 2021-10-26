@@ -1,0 +1,135 @@
+{
+  "programming languages": [
+    {
+      "name": "C++",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "JavaScipt",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "Java",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "Python",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "Kotlin",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "Swift",
+      "image": "",
+      "proficiency": ""
+    }
+  ],
+  "frameworks": [
+    {
+      "name": "React",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "Node",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "Angular",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "Django",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "Vue",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "Flask",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "React Native",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "Flutter",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "Unity",
+      "image": "",
+      "proficiency": ""
+    }
+  ],
+  "databases": [
+    {
+      "name": "MySQL",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "MongoDB",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "Firebase",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "DynamoDB",
+      "image": "",
+      "proficiency": ""
+    }
+  ],
+  "platforms": [
+    {
+      "name": "VS Code",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "Android Studio",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "PyCharm",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "Git",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "Unreal Engine",
+      "image": "",
+      "proficiency": ""
+    },
+    {
+      "name": "IntelliJ Idea",
+      "image": "",
+      "proficiency": ""
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "main": [
+    {
+      "logo": "",
+      "name": "Desk",
+      "sub": "Task Management Platform",
+      "live url": "",
+      "github": "",
+      "tech stack": [
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "info": "",
+      "features": ["", "", ""],
+      "screenshots": ["", "", "", ""],
+      "start": "",
+      "end": ""
+    },
+    {
+      "name": "Light",
+      "sub": "Online Programming Platform",
+      "live url": "",
+      "github": "",
+      "tech stack": [
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "info": "",
+      "features": ["", "", ""],
+      "screenshots": ["", "", "", ""],
+      "start": "",
+      "end": ""
+    },
+    {
+      "name": "Ava",
+      "sub": "Algorithm Visualizer App",
+      "live url": "",
+      "github": "",
+      "tech stack": [
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "info": "",
+      "features": ["", "", ""],
+      "screenshots": ["", "", "", ""],
+      "start": "",
+      "end": ""
+    },
+    {
+      "name": "Levi",
+      "sub": "Social Networking Platform",
+      "live url": "",
+      "github": "",
+      "tech stack": [
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "info": "",
+      "features": ["", "", ""],
+      "screenshots": ["", "", "", ""],
+      "start": "",
+      "end": ""
+    },
+    {
+      "name": "Docser",
+      "sub": "Documentation Builder",
+      "live url": "",
+      "github": "",
+      "tech stack": [
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "info": "",
+      "features": ["", "", ""],
+      "screenshots": ["", "", "", ""],
+      "start": "",
+      "end": ""
+    },
+    {
+      "name": "Shoper",
+      "sub": "Online Shop Builder",
+      "live url": "",
+      "github": "",
+      "tech stack": [
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "info": "",
+      "features": ["", "", ""],
+      "screenshots": ["", "", "", ""],
+      "start": "",
+      "end": ""
+    },
+    {
+      "name": "Webme",
+      "sub": "Portfolio Builder",
+      "live url": "",
+      "github": "",
+      "tech stack": [
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "info": "",
+      "features": ["", "", ""],
+      "screenshots": ["", "", "", ""],
+      "start": "",
+      "end": ""
+    },
+    {
+      "name": "Dimense",
+      "sub": "Different Dimension Trip",
+      "live url": "",
+      "github": "",
+      "tech stack": [
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "info": "",
+      "features": ["", "", ""],
+      "screenshots": ["", "", "", ""],
+      "start": "",
+      "end": ""
+    }
+  ],
+  "side": [
+    {
+      "name": "Noter",
+      "sub": "Note maker",
+      "live url": "",
+      "github": "",
+      "tech stack": [
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        },
+        {
+          "name": "",
+          "logo": ""
+        }
+      ],
+      "info": "",
+      "features": ["", "", ""],
+      "screenshots": ["", "", "", ""],
+      "start": "",
+      "end": ""
+    }
+  ]
+}

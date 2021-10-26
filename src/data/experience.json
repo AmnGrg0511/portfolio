@@ -1,0 +1,38 @@
+[
+  {
+    "company name": "Google",
+    "start": "",
+    "end": "",
+    "designation": "Software Engineer",
+    "location": "",
+    "works": ["", "", ""],
+    "honors": ["", "", ""]
+  },
+  {
+    "company name": "Mentor Graphics",
+    "start": "",
+    "end": "",
+    "designation": "Member Technical Staff",
+    "location": "",
+    "works": ["", "", ""],
+    "honors": ["", "", ""]
+  },
+  {
+    "company name": "Amazon",
+    "start": "",
+    "end": "",
+    "designation": "Software Developer Intern",
+    "location": "",
+    "works": ["", "", ""],
+    "honors": ["", "", ""]
+  },
+  {
+    "company name": "Bytelearn",
+    "start": "",
+    "end": "",
+    "designation": "Full Stack Developer Intern", 
+    "location": "",
+    "works": ["", "", ""],
+    "honors": ["", "", ""]
+  }
+]

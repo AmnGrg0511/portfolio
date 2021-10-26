@@ -1,0 +1,20 @@
+{
+  "schools": [
+    {
+      "name": "National Institute of Technology",
+      "degree": "Bachelors of Technology",
+      "location": "Kurukshetra",
+      "grades": "8.94/10",
+      "academic": ["", "", ""],
+      "extra curricular": ["", "", ""]
+    },
+    {
+      "name": "Green Valley School",
+      "degree": "Senior Secondary",
+      "location": "Faridabad",
+      "grades": "88.75/100",
+      "academic": ["", "", ""],
+      "extra curricular": ["", "", ""]
+    }
+  ]
+}
