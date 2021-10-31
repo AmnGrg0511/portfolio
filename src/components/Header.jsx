@@ -14,6 +14,7 @@ import {
 } from "@material-ui/core/colors";
 import { InvertColors } from "@material-ui/icons";
 import { motion } from "framer-motion";
+import { SiApollographql } from "react-icons/si";
 
 export const Header = ({ dark, setDark, setPalette }) => {
   const [anchorEl, setAnchorEl] = useState(null);
@@ -43,7 +44,7 @@ export const Header = ({ dark, setDark, setPalette }) => {
         borderRadius: 10,
         padding: "0 2rem",
         position: "sticky",
-        top: -10,
+        top: -8,
         zIndex: 100,
       }}
     >
@@ -51,9 +52,15 @@ export const Header = ({ dark, setDark, setPalette }) => {
         animate={{ scale: 1 }}
         transition={{ type: "spring", stiffness: 100 }}
         component={motion.div}
-        style={{ fontFamily: "Fascinate Inline", fontSize: 60, scale: 0 }}
+        style={{
+          fontFamily: "Fascinate Inline",
+          fontSize: 60,
+          scale: 0,
+          display: "flex",
+          padding: 16,
+        }}
       >
-        A
+        <SiApollographql />
       </Typography>
       <Box display="flex" alignItems="center">
         <Box p={1}>

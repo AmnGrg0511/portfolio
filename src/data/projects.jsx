@@ -5,7 +5,7 @@ import { FaConnectdevelop } from "react-icons/fa";
 import { SiAsciidoctor } from "react-icons/si";
 import { TiShoppingCart } from "react-icons/ti";
 import { MdOutlinePrecisionManufacturing } from "react-icons/md";
-import { GiGooExplosion } from "react-icons/gi";
+import { SiAccusoft } from "react-icons/si";
 import { SiMicrosoftonenote } from "react-icons/si";
 import { BsFileSpreadsheetFill } from "react-icons/bs";
 import { TiWeatherWindyCloudy } from "react-icons/ti";
@@ -227,7 +227,7 @@ export default {
       end: "",
     },
     {
-      logo: <GiGooExplosion style={style} />,
+      logo: <SiAccusoft style={style} />,
       name: "Dimense",
       sub: "Different Dimension Trip",
       "live url": "",
