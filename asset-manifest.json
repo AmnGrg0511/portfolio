@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.a56e4448.chunk.css",
-    "main.js": "/portfolio/static/js/main.156d15e9.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.156d15e9.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.c467554a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c467554a.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.5483d5da.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.5483d5da.js.map",
     "static/js/2.ffb351d3.chunk.js": "/portfolio/static/js/2.ffb351d3.chunk.js",
@@ -14,13 +14,13 @@
     "static/media/NITKurukshetra.fb7ff992.png": "/portfolio/static/media/NITKurukshetra.fb7ff992.png",
     "static/media/amazon-w.7b39c902.png": "/portfolio/static/media/amazon-w.7b39c902.png",
     "static/media/amazon.705454e5.png": "/portfolio/static/media/amazon.705454e5.png",
-    "static/media/bytelearn.092f2e2c.png": "/portfolio/static/media/bytelearn.092f2e2c.png",
+    "static/media/bytelearn.ed8f9a3a.png": "/portfolio/static/media/bytelearn.ed8f9a3a.png",
     "static/media/google.d604d7a7.png": "/portfolio/static/media/google.d604d7a7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5483d5da.js",
     "static/js/2.ffb351d3.chunk.js",
     "static/css/main.a56e4448.chunk.css",
-    "static/js/main.156d15e9.chunk.js"
+    "static/js/main.c467554a.chunk.js"
   ]
 }
