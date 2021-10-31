@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a56e4448.chunk.css",
+    "main.js": "/portfolio/static/js/main.7cda7852.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.7cda7852.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.5483d5da.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.5483d5da.js.map",
+    "static/js/2.5886f451.chunk.js": "/portfolio/static/js/2.5886f451.chunk.js",
+    "static/js/2.5886f451.chunk.js.map": "/portfolio/static/js/2.5886f451.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.a56e4448.chunk.css.map": "/portfolio/static/css/main.a56e4448.chunk.css.map",
+    "static/js/2.5886f451.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5886f451.chunk.js.LICENSE.txt",
+    "static/media/GreenValley.078db37b.png": "/portfolio/static/media/GreenValley.078db37b.png",
+    "static/media/NITKurukshetra.fb7ff992.png": "/portfolio/static/media/NITKurukshetra.fb7ff992.png",
+    "static/media/amazon-w.7b39c902.png": "/portfolio/static/media/amazon-w.7b39c902.png",
+    "static/media/amazon.705454e5.png": "/portfolio/static/media/amazon.705454e5.png",
+    "static/media/bytelearn.092f2e2c.png": "/portfolio/static/media/bytelearn.092f2e2c.png",
+    "static/media/google.d604d7a7.png": "/portfolio/static/media/google.d604d7a7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5483d5da.js",
+    "static/js/2.5886f451.chunk.js",
+    "static/css/main.a56e4448.chunk.css",
+    "static/js/main.7cda7852.chunk.js"
+  ]
+}
