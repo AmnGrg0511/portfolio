@@ -1,6 +1,6 @@
 import { Box, Grid, Paper, Typography } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
-import projects from "../data/projects.json";
+import projects from "../data/projects";
 
 const useStyles = makeStyles((theme) => ({}));
 
@@ -12,9 +12,14 @@ export const Works = () => {
       <Grid container spacing={4}>
         {projects.main.map((project) => (
           <Grid xs={12} md={6} lg={3} item>
-            <Paper style={{ padding: 10 }}>
-              <Typography variant="h6">{project.name}</Typography>
-              <Typography>{project.sub}</Typography>
+            <Paper
+              style={{ padding: 10, display: "flex", alignItems: "center" }}
+            >
+              {project.logo}
+              <div>
+                <Typography variant="h6">{project.name}</Typography>
+                <Typography>{project.sub}</Typography>
+              </div>
             </Paper>
           </Grid>
         ))}
@@ -23,9 +28,14 @@ export const Works = () => {
       <Grid container spacing={4}>
         {projects.side.map((project) => (
           <Grid xs={12} md={6} lg={3} item>
-            <Paper style={{ padding: 10 }}>
-              <Typography variant="h6">{project.name}</Typography>
-              <Typography>{project.sub}</Typography>
+            <Paper
+              style={{ padding: 10, display: "flex", alignItems: "center" }}
+            >
+              {project.logo}
+              <div>
+                <Typography variant="h6">{project.name}</Typography>
+                <Typography>{project.sub}</Typography>
+              </div>
             </Paper>
           </Grid>
         ))}

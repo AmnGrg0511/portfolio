@@ -307,7 +307,7 @@ function Home({ dark, setDark, palette, setPalette }) {
         />
         <About />
         <Works />
-        <Experience />
+        <Experience dark={dark} />
         <Skills />
         <CP />
         <Blogs />
