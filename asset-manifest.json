@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.a56e4448.chunk.css",
-    "main.js": "/portfolio/static/js/main.836f7503.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.836f7503.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.1ab7cf7f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1ab7cf7f.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.5483d5da.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.5483d5da.js.map",
-    "static/js/2.ffb351d3.chunk.js": "/portfolio/static/js/2.ffb351d3.chunk.js",
-    "static/js/2.ffb351d3.chunk.js.map": "/portfolio/static/js/2.ffb351d3.chunk.js.map",
+    "static/js/2.c81ef039.chunk.js": "/portfolio/static/js/2.c81ef039.chunk.js",
+    "static/js/2.c81ef039.chunk.js.map": "/portfolio/static/js/2.c81ef039.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/main.a56e4448.chunk.css.map": "/portfolio/static/css/main.a56e4448.chunk.css.map",
-    "static/js/2.ffb351d3.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ffb351d3.chunk.js.LICENSE.txt",
+    "static/js/2.c81ef039.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c81ef039.chunk.js.LICENSE.txt",
     "static/media/GreenValley.078db37b.png": "/portfolio/static/media/GreenValley.078db37b.png",
     "static/media/NITKurukshetra.fb7ff992.png": "/portfolio/static/media/NITKurukshetra.fb7ff992.png",
     "static/media/amazon-w.7b39c902.png": "/portfolio/static/media/amazon-w.7b39c902.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5483d5da.js",
-    "static/js/2.ffb351d3.chunk.js",
+    "static/js/2.c81ef039.chunk.js",
     "static/css/main.a56e4448.chunk.css",
-    "static/js/main.836f7503.chunk.js"
+    "static/js/main.1ab7cf7f.chunk.js"
   ]
 }
