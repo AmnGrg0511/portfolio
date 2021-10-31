@@ -1,6 +1,13 @@
-import { SiCodechef, SiCodeforces, SiLeetcode, SiGeeksforgeeks, SiHackerrank, SiHackerearth } from "react-icons/si";
+import {
+  SiCodechef,
+  SiCodeforces,
+  SiLeetcode,
+  SiGeeksforgeeks,
+  SiHackerrank,
+  SiHackerearth,
+} from "react-icons/si";
 
-const style = { width: "13%", height: "auto", margin: 25 };
+const style = { width: "13%", height: "auto", margin: 25, opacity: 0.8 };
 export default [
   {
     name: "CodeChef",

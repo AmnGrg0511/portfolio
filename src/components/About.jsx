@@ -75,6 +75,7 @@ export const About = () => {
           opacity: 0,
           display: "flex",
           flexWrap: "wrap",
+          minHeight: 80,
           translateY: 50,
         }}
       >

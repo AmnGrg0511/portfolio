@@ -21,11 +21,11 @@ import {
   SiGit,
   SiUnrealengine,
   SiIntellijidea,
-  SiPostgresql
+  SiPostgresql,
 } from "react-icons/si";
 import { FaNodeJs, FaVuejs } from "react-icons/fa";
 
-const style = { width: "30%", height: "auto", margin: 25 };
+const style = { width: "25%", height: "auto", margin: 25, opacity: 0.8 };
 export default {
   "programming languages": [
     {
