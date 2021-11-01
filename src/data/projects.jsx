@@ -13,7 +13,7 @@ import { MdCatchingPokemon } from "react-icons/md";
 import { RiCompassesFill } from "react-icons/ri";
 import { GiGamepad } from "react-icons/gi";
 
-const style = { width: "20%", height: "auto", margin: 25, opacity: 0.8 };
+const style = { width: "20%", height: "auto", margin: 25, opacity: 0.85 };
 export default {
   main: [
     {

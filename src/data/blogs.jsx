@@ -7,7 +7,7 @@ import {
   SiStackoverflow,
 } from "react-icons/si";
 
-const style = { width: "16%", height: "auto", margin: 25, opacity: 0.8 };
+const style = { width: "16%", height: "auto", margin: 25, opacity: 0.85 };
 export default [
   {
     site: "Medium",

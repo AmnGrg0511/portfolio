@@ -25,7 +25,7 @@ import {
 } from "react-icons/si";
 import { FaNodeJs, FaVuejs } from "react-icons/fa";
 
-const style = { width: "25%", height: "auto", margin: 25, opacity: 0.8 };
+const style = { width: "25%", height: "auto", margin: 25, opacity: 0.85 };
 export default {
   "programming languages": [
     {
